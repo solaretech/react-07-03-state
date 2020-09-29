@@ -6,6 +6,9 @@
 # TypeScript
 ./lib
 
+# node-packages
+package-lock.json
+
 # testing
 /coverage
 
